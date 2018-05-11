@@ -1,0 +1,32 @@
+{\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf100
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green255\blue255;}
+{\*\expandedcolortbl;;\csgray\c0;\csgray\c100000;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs22 \cf2 \cb3 \CocoaLigature0 MIIEogIBAAKCAQEA1CeRB88vJlpBlMfZP7KrZVj5WYq+N6Mg7Whogqx6Axc0KtXN\
+2xIiR1p9ESeXo2sYftHb9PGVZlIycIdRI57pEX+0pgK/1BO2lg0/ogTobCGK90uy\
+VBTcw9Ff9yANl+Y00UMUJmgLBICaYjqjo1PP9gyAOjMuRQ4loHk/O6OE2BN9lWt+\
+43UBq8G9A0tjLkEtDWY2RvcJ88DZ5lDM7k4oTqNKwdPC3Pve5SziYCHaziOpz6jr\
+Sh8CZ2FQK0UTPGqI0HZ8loUXa4/vJH8akRve5tzUYdq4oO6c0pSEKLq+jKSY+Lu+\
+Ofx0WhI7SzwRJv56ITiHDfyIwJs4qPEN6iTLXQIDAQABAoIBACS7cQXsHlrCl8Y9\
+z+SSd9CFVi7lsceKTAIu6KFvYXS1iMe92vWKLzsxdKQKuduGiGg0x6OiTF657pfD\
+Jg5HzkzEUq/HnBUJELzsME9KED/gkuH8TjT2o76Xusjb2N6q8gwlVBDORNITvicx\
+xfFaapBMW8s331P/fg5Jz+PwjOioLnBWJmtrTrETyu3YE1N1mtcPCR92Rup1O44H\
+zaJeLqRKmc8t8JitPSM/u2n1w3FvEsl9hai3/lDn5fX5tUHk2sYI/NLfjY8Dxj4W\
+nb6K8Ycc8LStK9+LvRcfp/4h4SaJtH7KPgo/xiZrRVqaHDGbgd+gU+e3k8PpqGEM\
+BSwVRkECgYEA9WM6Jxj57n8djHik7nGIaM0G8A9+lhsh7RRtu55yEkWpHCbEIZ0x\
+P5iijUuUhVGNophBovvgGKGvlvUXfFAzG2XUndPHDHvJZvxNBcK5PObWyWSfBsFn\
+810vUSZisrEFn5d3BbxMJvIAcP1Fxa2+1S7l3s1E6S+YieY4wGjG1BECgYEA3VRn\
+kAXSiqBYkJ1aa+ddGCnb63zQaNHfJ/JGy4EXjoXY222bMo0FiIYeecV+hllyZjsS\
+7GL28VUcH9JxeG3fSfnDzh0iymBwEntWEeRpcdS9sZxtNDEpHAyVHcLtgbrX08Jx\
+2Lg3V/u40I6LOYtCUXe+iDcSpWvXyZ1q5BNIHo0CgYBpNMu/64Nsb295xFfiKyby\
+18R7tAjvzl4zSSjq4bnCf79LZIt+ZeixfX1j2t2ocxiod2Lcv+SKavffXuFc2P2w\
+Z25K5HtYrNHip5VWPPAyXj4ERnGv8cfhnTgmMLDsL91bWRMckGiN4f+yccQyRpWk\
+zOCdL6C14UQjC2OVitaEIQKBgC6XagWjdCLChmJK/ZHhbnN7vFPiPm0SYQujsMt+\
+LVtPSctHU3hcv2Fx+lBgBrZ5dd+XZ/BjFODQrc71GfXkCzEjZtiowX4gtvbtB71U\
+e+3+fsA40bQ+9Qx2iZ1uP1kj3/Mv549bmCrpTop4t04xxpAnyPAbx80S2qYSgUHp\
+3TCxAoGAHrJafvD30NtoV/nZ7n9kGCnfXOBNDIsfdJuY90UruGImh+t8c+c3yK6S\
+0ppTCmoF1IvTxc27yNvcAmPHvitCBkkCvFe4N2J/gGZeTLiBFsYExb80+dwCYs8I\
+Yg84A5CrLgDukAkChWZuyN+ctVRJJJvCPypW8Hm1qOYLyheV75E=}
